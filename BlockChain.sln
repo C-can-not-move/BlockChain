@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BlockChain", "BlockChain.pyproj", "{DA4FB005-AFDB-4833-BE68-C1186F0FA0FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4FB005-AFDB-4833-BE68-C1186F0FA0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4FB005-AFDB-4833-BE68-C1186F0FA0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD764F5C-BE4F-4739-87A3-995B77AF8C46}
+	EndGlobalSection
+EndGlobal
